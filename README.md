@@ -5,12 +5,12 @@
 - The main function: IPCBD_MAIN.m
 
 ## 🛠️ Requirements
-- Python matlab 2023
+- Matlab 2023
 
 ## 🚀 Workflow
 ### 1. Run the main function
-Run `IPCBD_MAIN.m` to generate:  
+Run `IPCBD_MAIN.m`;  
 
 
 ### 2. Numerical results
-Fig. 4 in Paper....
+Show Fig. 4 in Paper....
